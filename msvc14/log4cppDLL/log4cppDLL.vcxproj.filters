@@ -131,6 +131,9 @@
     <ClCompile Include="..\..\src\Localtime.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\DailyRollingFileAppender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\log4cpp\Appender.hh">

@@ -116,6 +116,7 @@
     <ClCompile Include="..\..\src\Category.cpp" />
     <ClCompile Include="..\..\src\CategoryStream.cpp" />
     <ClCompile Include="..\..\src\Configurator.cpp" />
+    <ClCompile Include="..\..\src\DailyRollingFileAppender.cpp" />
     <ClCompile Include="..\..\src\DummyThreads.cpp" />
     <ClCompile Include="..\..\src\FactoryParams.cpp" />
     <ClCompile Include="..\..\src\FileAppender.cpp" />
